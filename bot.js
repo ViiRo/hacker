@@ -4,9 +4,9 @@ console.log("Scrpit By Dream");
 
 
 client.on("ready", () => {
-let channel =     client.channels.get("485161656561827841")
+let channel =     client.channels.get("526357046027616256")
 setInterval(function() {
-channel.send(`e.z @everyonee.z @everyonee.z @everyonee.z @everyonee.z @everyonee.z @everyonee.z @everyonee.z @everyonee.z @everyonee.z @everyonee.z @everyonee.z @everyonee.z @everyonee.z @everyonee.z @everyonee.z @everyonee.z @everyonee.z @everyonee.z @everyonee.z @everyonee.z @everyonee.z @everyonee.z @everyonee.z @everyonee.z @everyonee.z @everyonee.z @everyonee.z @everyonee.z @everyonee.z @everyonee.z @everyonee.z @everyonee.z @everyonee.z @everyonee.z @everyonee.z @everyonee.z @everyonee.z @everyonee.z @everyone`);
+channel.send(`CreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditCreditvvv`);
 }, 30)
 })
 
